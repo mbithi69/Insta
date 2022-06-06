@@ -3,14 +3,8 @@
 image{
     margin-top: 10%;
 }
-a.active,a:hover{
-    background-color: green;
-    transition: .5s;
-}
-nav nav link ul li a.active,a:hover{
-    background-color: green;
-    transition: .5s;
-}
+
+
 hr{
     color:white;
 }
